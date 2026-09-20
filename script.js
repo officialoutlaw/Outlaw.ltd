@@ -7,12 +7,12 @@
 
   /* ----- Gallery Data ----- */
   var GALLERY_IMAGES = [
-    { src: 'https://images.pexels.com/photos/38744855/pexels-photo-38744855.jpeg?auto=compress&cs=tinysrgb&w=1200', alt: 'Minimalist modern facade with geometric lines' },
-    { src: 'https://images.pexels.com/photos/15792394/pexels-photo-15792394.jpeg?auto=compress&cs=tinysrgb&w=900', alt: 'Editorial portrait in velvet attire with shadow play' },
-    { src: 'https://images.pexels.com/photos/18545013/pexels-photo-18545013.jpeg?auto=compress&cs=tinysrgb&w=1200', alt: 'Abstract neon cityscape at night' },
-    { src: 'https://images.pexels.com/photos/3137084/pexels-photo-3137084.jpeg?auto=compress&cs=tinysrgb&w=900', alt: 'Minimalist architecture against a dark sky' },
-    { src: 'https://images.pexels.com/photos/28863302/pexels-photo-28863302.jpeg?auto=compress&cs=tinysrgb&w=900', alt: 'Moody portrait with dramatic lighting' },
-    { src: 'https://images.pexels.com/photos/18182846/pexels-photo-18182846.jpeg?auto=compress&cs=tinysrgb&w=1200', alt: 'Light trails in a cityscape at night' },
+    { src: '1-photo.jpg', alt: 'Outlaw.ltd' },
+    { src: '2-photo.jpg', alt: 'Sanatan X Logo' },
+    { src: '3-photo.jpg', alt: 'Mahadev Adiyogi' },
+    { src: '4-photo.jpg', alt: 'Shiv Shambhu' },
+    { src: '5-photo.jpg', alt: 'Hinduism' },
+    { src: '6-photo.jpg', alt: 'Shiv Sanatan' },
   ];
 
   var STORAGE_KEY = 'outlaw-theme';
